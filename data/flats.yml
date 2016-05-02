@@ -1,0 +1,83 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  guest_max: 3
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 1
+  rating: 4
+
+romain:
+  owner_name: Romain Paillard
+  picture: card-london.jpeg
+  owner_picture: romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  guest_max: 4
+  bathrooms: 2
+  bed_type: Real Bed
+  bedrooms: 2
+  rating: 3
+
+superman:
+  owner_name: Clark Kent
+  picture: http://ilovemycamera.com/images/KansasInMiniature/KansasFarm.jpg
+  owner_picture: https://upload.wikimedia.org/wikipedia/en/b/b0/Henry_cavill_man_of_steel.jpg
+  name: Superman's Loft
+  summary: Nice farm in the middle of Kansas
+  city: Smallville
+  wifi: false
+  guest_max: 6
+  bathrooms: 2
+  bed_type: Real Bed
+  bedrooms: 3
+  rating: 4
+
+batman:
+  owner_name: Bruce Wayne
+  picture: https://40.media.tumblr.com/tumblr_m12hnw0Ifm1rqmiw3o1_500.jpg
+  owner_picture: http://src.iut-troyes.univ-reims.fr/~mmid114b07/S2/batman/images/BW.jpg
+  name: Wayne's Manor
+  summary: Nice Manor near Gotham
+  city: Gotham
+  wifi: true
+  guest_max: 20
+  bathrooms: 10
+  bed_type: Real Bed
+  bedrooms: 10
+  rating: 4
+
+iron_man:
+  owner_name: Tony Stark
+  picture: https://s-media-cache-ak0.pinimg.com/736x/a1/5f/0f/a15f0fec37e564117ce3d248d13ab0b6.jpg
+  owner_picture: https://pbs.twimg.com/profile_images/693024935397232640/GDXwrK4V.jpg
+  name: Tony's Penthouse
+  summary: Nice Penthouse on top of Stark Tower
+  city: New York
+  wifi: true
+  guest_max: 10
+  bathrooms: 4
+  bed_type: Real Bed
+  bedrooms: 4
+  rating: 4
+
+anne:
+  owner_name: Anne
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Anne's house
+  summary: Nice flat in Brussels
+  city: Brussels
+  wifi: false
+  guest_max: 4
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 1
+  rating: 4
