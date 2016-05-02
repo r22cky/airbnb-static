@@ -3,9 +3,14 @@ seb:
   picture: card-paris.jpg
   owner_picture: seb.jpg
   name: Seb's home
+  description:
   summary: Charming room in Montmartre
+  house_type: Flat
   city: Paris, France
   wifi: true
+  kitchen: true
+  tv: true
+  drink: true
   guest_max: 3
   bathrooms: 1
   bed_type: Real Bed
@@ -17,9 +22,14 @@ romain:
   picture: card-london.jpeg
   owner_picture: romain.jpg
   name: Romain's home
+  description:
   summary: Nice flat in Piccadilly
+  house_type: Flat
   city: London, UK
   wifi: false
+  kitchen: true
+  tv: true
+  drink: true
   guest_max: 4
   bathrooms: 2
   bed_type: Real Bed
@@ -28,12 +38,17 @@ romain:
 
 superman:
   owner_name: Clark Kent
-  picture: http://ilovemycamera.com/images/KansasInMiniature/KansasFarm.jpg
-  owner_picture: https://upload.wikimedia.org/wikipedia/en/b/b0/Henry_cavill_man_of_steel.jpg
+  picture: http://vignette4.wikia.nocookie.net/smallville/images/f/f6/The_Kent_Home.jpg/revision/latest?cb=20101107095341
+  owner_picture: https://s-media-cache-ak0.pinimg.com/236x/b2/2e/cd/b22ecd69b2e65d0a590bb9c5eb00253f.jpg
   name: Superman's Loft
+  description: The Kent Farm is located on Hickory Lane in Smallville, Kansas 66605. It is the oldest farm in Lowell County. It is adjacent to the Smallville cemetery.
   summary: Nice farm in the middle of Kansas
+  house_type: Farm House
   city: Smallville
   wifi: false
+  kitchen: true
+  tv: true
+  drink: false
   guest_max: 6
   bathrooms: 2
   bed_type: Real Bed
@@ -43,11 +58,16 @@ superman:
 batman:
   owner_name: Bruce Wayne
   picture: https://40.media.tumblr.com/tumblr_m12hnw0Ifm1rqmiw3o1_500.jpg
-  owner_picture: http://src.iut-troyes.univ-reims.fr/~mmid114b07/S2/batman/images/BW.jpg
+  owner_picture: http://images.8tracks.com/cover/i/009/948/854/Untitled-1495.jpg?rect=0,0,1244,1244&q=98&fm=jpg&fit=max&w=320&h=320
   name: Wayne's Manor
+  description: false
   summary: Nice Manor near Gotham
+  house_type: Manor
   city: Gotham
   wifi: true
+  kitchen: true
+  tv: true
+  drink: false
   guest_max: 20
   bathrooms: 10
   bed_type: Real Bed
@@ -59,9 +79,14 @@ iron_man:
   picture: https://s-media-cache-ak0.pinimg.com/736x/a1/5f/0f/a15f0fec37e564117ce3d248d13ab0b6.jpg
   owner_picture: https://pbs.twimg.com/profile_images/693024935397232640/GDXwrK4V.jpg
   name: Tony's Penthouse
+  description:
   summary: Nice Penthouse on top of Stark Tower
+  house_type: House
   city: New York
   wifi: true
+  kitchen: true
+  tv: true
+  drink: true
   guest_max: 10
   bathrooms: 4
   bed_type: Real Bed
@@ -73,9 +98,14 @@ anne:
   picture: card-brussels.jpeg
   owner_picture: anne.jpg
   name: Anne's house
+  description:
   summary: Nice flat in Brussels
+  house_type: Flat
   city: Brussels
   wifi: false
+  kitchen: true
+  tv: true
+  drink: false
   guest_max: 4
   bathrooms: 1
   bed_type: Real Bed
